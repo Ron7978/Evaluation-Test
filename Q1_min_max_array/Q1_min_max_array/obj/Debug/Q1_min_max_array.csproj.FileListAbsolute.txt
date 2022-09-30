@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\bin\Debug\Q1_min_max_array.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\bin\Debug\Q1_min_max_array.exe
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\bin\Debug\Q1_min_max_array.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\obj\Debug\Q1_min_max_array.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\obj\Debug\Q1_min_max_array.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\obj\Debug\Q1_min_max_array.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\obj\Debug\Q1_min_max_array.exe
+C:\Users\bhattacharya.rounak\source\repos\Q1_min_max_array\Q1_min_max_array\obj\Debug\Q1_min_max_array.pdb
