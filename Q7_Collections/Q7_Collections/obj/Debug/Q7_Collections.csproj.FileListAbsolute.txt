@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\bin\Debug\Q7_Collections.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\bin\Debug\Q7_Collections.exe
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\bin\Debug\Q7_Collections.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\obj\Debug\Q7_Collections.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\obj\Debug\Q7_Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\obj\Debug\Q7_Collections.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\obj\Debug\Q7_Collections.exe
+C:\Users\bhattacharya.rounak\source\repos\Q7_Collections\Q7_Collections\obj\Debug\Q7_Collections.pdb
