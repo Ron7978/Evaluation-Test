@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\bin\Debug\Q9_EmployeePromotion.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\bin\Debug\Q9_EmployeePromotion.exe
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\bin\Debug\Q9_EmployeePromotion.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\obj\Debug\Q9_EmployeePromotion.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\obj\Debug\Q9_EmployeePromotion.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\obj\Debug\Q9_EmployeePromotion.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\obj\Debug\Q9_EmployeePromotion.exe
+C:\Users\bhattacharya.rounak\source\repos\Q9_EmployeePromotion\Q9_EmployeePromotion\obj\Debug\Q9_EmployeePromotion.pdb
