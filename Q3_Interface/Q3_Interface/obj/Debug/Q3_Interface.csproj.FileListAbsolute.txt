@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\bin\Debug\Q3_Interface.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\bin\Debug\Q3_Interface.exe
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\bin\Debug\Q3_Interface.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\obj\Debug\Q3_Interface.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\obj\Debug\Q3_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\obj\Debug\Q3_Interface.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\obj\Debug\Q3_Interface.exe
+C:\Users\bhattacharya.rounak\source\repos\Q3_Interface\Q3_Interface\obj\Debug\Q3_Interface.pdb
