@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\bin\Debug\Q2_phonebook.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\bin\Debug\Q2_phonebook.exe
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\bin\Debug\Q2_phonebook.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\obj\Debug\Q2_phonebook.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\obj\Debug\Q2_phonebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\obj\Debug\Q2_phonebook.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\obj\Debug\Q2_phonebook.exe
+C:\Users\bhattacharya.rounak\source\repos\Q2_phonebook\Q2_phonebook\obj\Debug\Q2_phonebook.pdb
