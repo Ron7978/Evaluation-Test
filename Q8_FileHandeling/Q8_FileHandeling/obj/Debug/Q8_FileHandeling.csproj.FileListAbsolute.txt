@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\bin\Debug\Q8_FileHandeling.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\bin\Debug\Q8_FileHandeling.exe
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\bin\Debug\Q8_FileHandeling.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\obj\Debug\Q8_FileHandeling.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\obj\Debug\Q8_FileHandeling.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\obj\Debug\Q8_FileHandeling.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\obj\Debug\Q8_FileHandeling.exe
+C:\Users\bhattacharya.rounak\source\repos\Q8_FileHandeling\Q8_FileHandeling\obj\Debug\Q8_FileHandeling.pdb

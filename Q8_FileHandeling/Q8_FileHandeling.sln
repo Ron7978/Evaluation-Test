@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q8_FileHandeling", "Q8_FileHandeling\Q8_FileHandeling.csproj", "{BDEA1AAB-BCBE-434D-9D0F-833EF3CD94FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEA1AAB-BCBE-434D-9D0F-833EF3CD94FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEA1AAB-BCBE-434D-9D0F-833EF3CD94FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEA1AAB-BCBE-434D-9D0F-833EF3CD94FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEA1AAB-BCBE-434D-9D0F-833EF3CD94FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E000002A-7345-459B-8CBC-A4B583B204E3}
+	EndGlobalSection
+EndGlobal
