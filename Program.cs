@@ -1,26 +1,50 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Q1_min_max_array
+public class Q3_Interface
 {
-    internal class Program
+    public interface Vehicle
     {
-        static void Main(string[] args)
-        {
-            int[] arr = new int[5];
-            Console.WriteLine("Enter the elements of the array : ");
-            for (int i = 0; i < arr.Length; i++)
-            { 
-                arr[i] = int.Parse(Console.ReadLine());
-            }
+        void Drive();
+        bool Refuel(int amount);
+    }
 
-            Console.WriteLine("Minimum number is " + arr.Min());
-            Console.WriteLine("Maximum number is " + arr.Max());
+    public class Car : Vehicle
+    {
+        public int Fuel { get; set; }
+
+        public Car(int fuel)
+        {
+            Fuel = fuel;
+        }
+
+        public void Drive()
+        {
+            if (Fuel > 0)
+            {
+                Console.WriteLine("\n\tDriving");
+            }
+            else
+            {
+                Console.WriteLine("\n\tNo fuel");
+            }
+        }
+
+        public bool Refuel(int amount)
+        {
+            Fuel += amount;
+            return true;
+        }
+        public static void Main(string[] args)
+        {
+            Car car = new Car(0);
+
+            Console.Write("Enter the ammount of fuel : ");
+            int fuel = int.Parse(Console.ReadLine());
+            if (car.Refuel(fuel))
+            {
+                car.Drive();
+            }
             Console.ReadLine();
-            
         }
     }
 }
