@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\bin\Debug\Q6_CopyFile.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\bin\Debug\Q6_CopyFile.exe
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\bin\Debug\Q6_CopyFile.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\obj\Debug\Q6_CopyFile.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\obj\Debug\Q6_CopyFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\obj\Debug\Q6_CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\obj\Debug\Q6_CopyFile.exe
+C:\Users\bhattacharya.rounak\source\repos\Q6_CopyFile\Q6_CopyFile\obj\Debug\Q6_CopyFile.pdb
