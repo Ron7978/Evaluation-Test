@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\bin\Debug\Q5_MathOperations.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\bin\Debug\Q5_MathOperations.exe
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\bin\Debug\Q5_MathOperations.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\obj\Debug\Q5_MathOperations.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\obj\Debug\Q5_MathOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\obj\Debug\Q5_MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\obj\Debug\Q5_MathOperations.exe
+C:\Users\bhattacharya.rounak\source\repos\Q5_MathOperations\Q5_MathOperations\obj\Debug\Q5_MathOperations.pdb
