@@ -1,0 +1,8 @@
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\bin\Debug\Q4_Abstact.exe.config
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\bin\Debug\Q4_Abstact.exe
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\bin\Debug\Q4_Abstact.pdb
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\obj\Debug\Q4_Abstact.csproj.AssemblyReference.cache
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\obj\Debug\Q4_Abstact.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\obj\Debug\Q4_Abstact.csproj.CoreCompileInputs.cache
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\obj\Debug\Q4_Abstact.exe
+C:\Users\bhattacharya.rounak\source\repos\Q4_Abstact\Q4_Abstact\obj\Debug\Q4_Abstact.pdb
